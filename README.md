@@ -1,1 +1,1 @@
-# WatchLens: Mapping India's Streaming Trends
+# TuneScope — Music Genre Exploration
